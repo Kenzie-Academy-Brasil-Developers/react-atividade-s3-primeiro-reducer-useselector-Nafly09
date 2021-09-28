@@ -14,6 +14,12 @@ export default createGlobalStyle`
 
 }
 
+body {
+    min-height: 53vh;
+    display: flex;
+    justify-content: center;
+}
+
 a {
     text-decoration: none;
 }
